@@ -1,0 +1,4 @@
+1 Corvette 'sprites/corvette.txt' level1 x y 'descend'
+10 Corvette 'sprites/corvette.txt' level1 x y 'swarm'
+15 Destroyer 'sprites/destroyer.txt' level1 x y 'descend'
+45 Cruiser 'sprites/cruiser.txt' level1 x y 'descend'
